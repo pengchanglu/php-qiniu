@@ -14,7 +14,7 @@ class Client
         'bucket'     => null,
         'domain'     => null,
         'timeout'    => '3600',
-        'upload_url' => 'http://up.qiniu.com',
+        'upload_url' => 'http://up-z1.qiniup.com',
         'rs_url'     => 'http://rs.qbox.me',
         'rsf_url'    => 'http://rsf.qbox.me',
         'base_url'   => null
